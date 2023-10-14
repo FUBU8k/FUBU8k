@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FUBU8k
-- 👀 I’m interested in .sh
-- 🌱 I’m currently learning How to not kill myself
-- 💞️ I’m looking to collaborate on some kinda server development idk
+- 👀 I’m interested in JavaScript, HTML, CSS, PHP, SQL, react and node.js
+- 🌱 I’m currently learning SQL, JavaScript and PHP
+- 💞️ I’m looking to collaborate on something to help me study
 - 📫 How to reach me: have autism
 
 
